@@ -1,0 +1,21 @@
+{
+	"uuid": 1,
+	"name": "Pastel Blue",
+	"mode": "",
+	"primary": "",
+	"secondary": "",
+	"success": "",
+	"warning": "",
+	"error": "",
+	"info": "",
+	"divider": "",
+	"background": {
+		"default": "",
+		"paper": ""
+	},
+	"text": {
+		"primary": "",
+		"secondary": "",
+		"disabled": ""
+	}
+}
