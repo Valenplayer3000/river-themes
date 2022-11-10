@@ -11,7 +11,7 @@ Themes for River
 
 ```json
 {
-	"uuid": 1,
+	"uuid": "",
 	"name": "",
 	"mode": "",
 	"primary": "",
@@ -36,10 +36,12 @@ Themes for River
 ## `uuid`
 Provide the uuid of a theme
 
+> You must have inverted url for uuid
+
 ### Example
 ```json
 {
-	"uuid": 1
+	"uuid": ""
 }
 ```
 
