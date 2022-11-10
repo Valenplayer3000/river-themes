@@ -1,0 +1,21 @@
+{
+	"uuid": "com.github.stationarystation.catppuccin.macchiato",
+	"name": "Catppuccin Macchiato",
+	"mode": "dark",
+	"primary": "#f0c6c6",
+	"secondary": "#f0c6c6",
+	"success": "#a6da95",
+	"warning": "#f5a97f",
+	"error": "#ed8796",
+	"info": "#7dc4e4",
+	"divider": "#494d64",
+	"background": {
+		"default": "#24273a",
+		"paper": "#1e2030"
+	},
+	"text": {
+		"primary": "#cad3f5",
+		"secondary": "#b8c0e0",
+		"disabled": "#a5adcb"
+	}
+}
