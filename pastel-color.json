@@ -1,0 +1,21 @@
+{
+	"uuid": "com.github.valenplayer3000.river-themes.pastel-color",
+	"name": "Pastel Color",
+	"mode": "light",
+	"primary": "#4ec9ff",
+	"secondary": "#23bcff",
+	"success": "#b7ffb9",
+	"warning": "#fffbb7",
+	"error": "#ff7373",
+	"info": "#acd7fa",
+	"divider": "#d9d9d9",
+	"background": {
+		"default": "#ffffff",
+		"paper": "#f2f2f2"
+	},
+	"text": {
+		"primary": "#000000",
+		"secondary": "#000000",
+		"disabled": "#575757"
+	}
+}
